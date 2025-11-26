@@ -100,21 +100,21 @@ Earth layers:
 ### 3. model.glsl – Orbital Transform System
 Transformation hierarchy:
 
-Sun
+- Sun
 
-Earth orbit
+- Earth orbit
 
-Earth spin
+- Earth spin
 
-Moon orbit
+- Moon orbit
 
-Moon tilt
+- Moon tilt
 
-Moon scale
+- Moon scale
 
-Starfield sphere transform
+- Starfield sphere transform
 
-Tuned orbital parameters for realism
+- Tuned orbital parameters for realism
 
 ### 4. bump_height.glsl – Terrain / Height Modeling
 Multi-layer Earth height: oceans → coasts → land → mountains → snow
