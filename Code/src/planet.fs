@@ -1,4 +1,3 @@
-﻿// Generate a procedural planet and orbiting moon
 uniform mat4 view;
 uniform mat4 proj;
 uniform float animation_seconds;
